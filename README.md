@@ -16,3 +16,15 @@ Kaggle:
 
 Slide
 - https://docs.google.com/presentation/d/1Jl8un1l9PjhcAavDtFeuDixLneMi3qDiKqtx5fa_zN8/edit
+
+Team members:
+- Fadilah Nur Imani
+- Wine Tesa
+- Anjar Desmiarti
+- Winda
+- Shahrie Rabbanie
+
+Mentor:
+Rezki Trianto (Bukalapak)
+
+Created in 2021.
