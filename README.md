@@ -1,0 +1,11 @@
+# Insurance-Cross-selling-Prediction
+
+This is Sandbox 2.0 final project at Rakamin Academy Data Science Bootcamp.
+We try to solve the vehicle insurance cross-selling problems using health insurance customer dataset from kaggle and their response towards the cross-selling offer.
+The dataset is pre-processed as follows:
+- Checking missing value/duplicated value
+- Feature encoding
+- Outlier treatment
+- Imbalanced class treatment using SMOTE oversampling 0:50
+- Split train test 7:3
+- Feature scaling (standardization)
