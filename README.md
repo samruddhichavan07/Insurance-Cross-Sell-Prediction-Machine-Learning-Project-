@@ -9,3 +9,10 @@ The dataset is pre-processed as follows:
 - Imbalanced class treatment using SMOTE oversampling 0:50
 - Split train test 7:3
 - Feature scaling (standardization)
+
+Kaggle:
+- https://www.kaggle.com/imfdlh/insurance-cross-selling-pre-processing-eda
+- https://www.kaggle.com/imfdlh/insurance-cross-selling-roc-auc-test-92-9
+
+Slide
+- https://docs.google.com/presentation/d/1Jl8un1l9PjhcAavDtFeuDixLneMi3qDiKqtx5fa_zN8/edit
