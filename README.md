@@ -17,7 +17,7 @@ Kaggle:
 Slide
 - https://docs.google.com/presentation/d/1Jl8un1l9PjhcAavDtFeuDixLneMi3qDiKqtx5fa_zN8/edit
 
-Laporan
+Report
 - https://docs.google.com/presentation/d/1G3bMlMHKqrN0shyL5DJsD92CMBz_mN88/edit?rtpof=true
 
 Team members:
