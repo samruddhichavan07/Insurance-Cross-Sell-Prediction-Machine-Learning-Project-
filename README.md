@@ -6,7 +6,7 @@ The dataset is pre-processed as follows:
 - Checking missing value/duplicated value
 - Feature encoding
 - Outlier treatment
-- Imbalanced class treatment using SMOTE oversampling 0:50
+- Imbalanced class treatment using SMOTE oversampling 50:50
 - Split train test 7:3
 - Feature scaling (standardization)
 
