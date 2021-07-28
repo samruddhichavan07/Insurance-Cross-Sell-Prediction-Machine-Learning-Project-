@@ -28,6 +28,6 @@ Team members:
 - Shahrie Rabbanie
 
 Mentor:
-Rezki Trianto (Bukalapak)
+Rezki Trianto
 
 Created in 2021.
